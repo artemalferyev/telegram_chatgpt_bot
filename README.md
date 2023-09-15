@@ -1,2 +1,2 @@
 # telegram_chatbot
-Telegram chatbot for telegram reforestation company "Silvica"
+Telegram chatbot for telegram reforestation company "ArvoNova"
